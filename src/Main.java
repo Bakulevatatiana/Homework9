@@ -51,7 +51,6 @@ public class Main {
         System.out.println(sum);
     }
 
-
     public static int[] generateRandomArray() {
         java.util.Random random = new java.util.Random();
         int[] arr = new int[30];
